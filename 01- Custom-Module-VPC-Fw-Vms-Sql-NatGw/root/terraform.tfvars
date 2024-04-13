@@ -5,7 +5,7 @@ gcp_zone                = "us-central1-b"
 gcp_region_europe_west2 = "europe-west2"
 gcp_zone_europe_west2   = "europe-west2-c"
 
-source_ranges = "39.51.13.19/32"
+source_ranges = "50.110.20.100/32"
 
 
 
